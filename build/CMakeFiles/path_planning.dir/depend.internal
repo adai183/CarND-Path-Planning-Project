@@ -162,6 +162,7 @@ CMakeFiles/path_planning.dir/src/main.cpp.o
  /Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
  /Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/json.hpp
  /Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/main.cpp
+ /Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/spline.h
  /usr/local/include/openssl/asn1.h
  /usr/local/include/openssl/bio.h
  /usr/local/include/openssl/bn.h
