@@ -6,35 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Cholesky
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Cholesky
 Core
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
 src/Core/util/DisableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
 src/Cholesky/LLT.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT.h
 src/Cholesky/LDLT.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LDLT.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LDLT.h
 src/misc/lapacke.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke.h
 src/Cholesky/LLT_LAPACKE.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT_LAPACKE.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT_LAPACKE.h
 src/Core/util/ReenableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
 src/Core/util/DisableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
 math_functions.hpp
 -
 new
 -
 src/Core/util/Macros.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Macros.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Macros.h
 complex
 -
 src/Core/util/MKL_support.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/MKL_support.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/MKL_support.h
 malloc.h
 -
 immintrin.h
@@ -102,613 +102,613 @@ iostream
 intrin.h
 -
 src/Core/util/Constants.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Constants.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Constants.h
 src/Core/util/Meta.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Meta.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Meta.h
 src/Core/util/ForwardDeclarations.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ForwardDeclarations.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ForwardDeclarations.h
 src/Core/util/StaticAssert.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/StaticAssert.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/StaticAssert.h
 src/Core/util/XprHelper.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/XprHelper.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/XprHelper.h
 src/Core/util/Memory.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Memory.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Memory.h
 src/Core/NumTraits.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NumTraits.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NumTraits.h
 src/Core/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctions.h
 src/Core/GenericPacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GenericPacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GenericPacketMath.h
 src/Core/MathFunctionsImpl.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctionsImpl.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctionsImpl.h
 src/Core/arch/SSE/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
 src/Core/arch/AVX/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/PacketMath.h
 src/Core/arch/AVX512/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/PacketMath.h
 src/Core/arch/AVX512/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/MathFunctions.h
 src/Core/arch/SSE/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
 src/Core/arch/SSE/Complex.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/Complex.h
 src/Core/arch/SSE/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/MathFunctions.h
 src/Core/arch/AVX/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/PacketMath.h
 src/Core/arch/AVX/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/MathFunctions.h
 src/Core/arch/AVX/Complex.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/Complex.h
 src/Core/arch/AVX/TypeCasting.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/TypeCasting.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/TypeCasting.h
 src/Core/arch/SSE/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
 src/Core/arch/SSE/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/MathFunctions.h
 src/Core/arch/SSE/Complex.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/Complex.h
 src/Core/arch/SSE/TypeCasting.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/TypeCasting.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/TypeCasting.h
 src/Core/arch/AltiVec/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/PacketMath.h
 src/Core/arch/AltiVec/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/MathFunctions.h
 src/Core/arch/AltiVec/Complex.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/Complex.h
 src/Core/arch/NEON/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/PacketMath.h
 src/Core/arch/NEON/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/MathFunctions.h
 src/Core/arch/NEON/Complex.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/Complex.h
 src/Core/arch/ZVector/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/PacketMath.h
 src/Core/arch/ZVector/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/MathFunctions.h
 src/Core/arch/ZVector/Complex.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/Complex.h
 src/Core/arch/CUDA/Half.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Half.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Half.h
 src/Core/arch/CUDA/PacketMathHalf.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 src/Core/arch/CUDA/TypeCasting.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/TypeCasting.h
 src/Core/arch/CUDA/PacketMath.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMath.h
 src/Core/arch/CUDA/MathFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/MathFunctions.h
 src/Core/arch/Default/Settings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/Default/Settings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/Default/Settings.h
 src/Core/functors/TernaryFunctors.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/TernaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/TernaryFunctors.h
 src/Core/functors/BinaryFunctors.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/BinaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/BinaryFunctors.h
 src/Core/functors/UnaryFunctors.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/UnaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/UnaryFunctors.h
 src/Core/functors/NullaryFunctors.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/NullaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/NullaryFunctors.h
 src/Core/functors/StlFunctors.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/StlFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/StlFunctors.h
 src/Core/functors/AssignmentFunctors.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/AssignmentFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/AssignmentFunctors.h
 src/Core/arch/CUDA/Complex.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Complex.h
 src/Core/IO.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/IO.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/IO.h
 src/Core/DenseCoeffsBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseCoeffsBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseCoeffsBase.h
 src/Core/DenseBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseBase.h
 src/Core/MatrixBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MatrixBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MatrixBase.h
 src/Core/EigenBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/EigenBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/EigenBase.h
 src/Core/Product.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Product.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Product.h
 src/Core/CoreEvaluators.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreEvaluators.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreEvaluators.h
 src/Core/AssignEvaluator.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/AssignEvaluator.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/AssignEvaluator.h
 src/Core/Assign.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign.h
 src/Core/ArrayBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayBase.h
 src/Core/util/BlasUtil.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/BlasUtil.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/BlasUtil.h
 src/Core/DenseStorage.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseStorage.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseStorage.h
 src/Core/NestByValue.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NestByValue.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NestByValue.h
 src/Core/ReturnByValue.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ReturnByValue.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ReturnByValue.h
 src/Core/NoAlias.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NoAlias.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NoAlias.h
 src/Core/PlainObjectBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PlainObjectBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PlainObjectBase.h
 src/Core/Matrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Matrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Matrix.h
 src/Core/Array.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Array.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Array.h
 src/Core/CwiseTernaryOp.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseTernaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseTernaryOp.h
 src/Core/CwiseBinaryOp.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseBinaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseBinaryOp.h
 src/Core/CwiseUnaryOp.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryOp.h
 src/Core/CwiseNullaryOp.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseNullaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseNullaryOp.h
 src/Core/CwiseUnaryView.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryView.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryView.h
 src/Core/SelfCwiseBinaryOp.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfCwiseBinaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfCwiseBinaryOp.h
 src/Core/Dot.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Dot.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Dot.h
 src/Core/StableNorm.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/StableNorm.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/StableNorm.h
 src/Core/Stride.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Stride.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Stride.h
 src/Core/MapBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MapBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MapBase.h
 src/Core/Map.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Map.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Map.h
 src/Core/Ref.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Ref.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Ref.h
 src/Core/Block.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Block.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Block.h
 src/Core/VectorBlock.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorBlock.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorBlock.h
 src/Core/Transpose.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpose.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpose.h
 src/Core/DiagonalMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalMatrix.h
 src/Core/Diagonal.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Diagonal.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Diagonal.h
 src/Core/DiagonalProduct.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalProduct.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalProduct.h
 src/Core/Redux.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Redux.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Redux.h
 src/Core/Visitor.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Visitor.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Visitor.h
 src/Core/Fuzzy.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Fuzzy.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Fuzzy.h
 src/Core/Swap.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Swap.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Swap.h
 src/Core/CommaInitializer.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CommaInitializer.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CommaInitializer.h
 src/Core/GeneralProduct.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GeneralProduct.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GeneralProduct.h
 src/Core/Solve.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Solve.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Solve.h
 src/Core/Inverse.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Inverse.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Inverse.h
 src/Core/SolverBase.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolverBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolverBase.h
 src/Core/PermutationMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PermutationMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PermutationMatrix.h
 src/Core/Transpositions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpositions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpositions.h
 src/Core/TriangularMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/TriangularMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/TriangularMatrix.h
 src/Core/SelfAdjointView.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfAdjointView.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfAdjointView.h
 src/Core/products/GeneralBlockPanelKernel.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralBlockPanelKernel.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralBlockPanelKernel.h
 src/Core/products/Parallelizer.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/Parallelizer.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/Parallelizer.h
 src/Core/ProductEvaluators.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ProductEvaluators.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ProductEvaluators.h
 src/Core/products/GeneralMatrixVector.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector.h
 src/Core/products/GeneralMatrixMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix.h
 src/Core/SolveTriangular.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolveTriangular.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolveTriangular.h
 src/Core/products/GeneralMatrixMatrixTriangular.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h
 src/Core/products/SelfadjointMatrixVector.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector.h
 src/Core/products/SelfadjointMatrixMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix.h
 src/Core/products/SelfadjointProduct.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointProduct.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointProduct.h
 src/Core/products/SelfadjointRank2Update.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointRank2Update.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointRank2Update.h
 src/Core/products/TriangularMatrixVector.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector.h
 src/Core/products/TriangularMatrixMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix.h
 src/Core/products/TriangularSolverMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix.h
 src/Core/products/TriangularSolverVector.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverVector.h
 src/Core/BandMatrix.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BandMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BandMatrix.h
 src/Core/CoreIterators.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreIterators.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreIterators.h
 src/Core/ConditionEstimator.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ConditionEstimator.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ConditionEstimator.h
 src/Core/BooleanRedux.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BooleanRedux.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BooleanRedux.h
 src/Core/Select.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Select.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Select.h
 src/Core/VectorwiseOp.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorwiseOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorwiseOp.h
 src/Core/Random.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Random.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Random.h
 src/Core/Replicate.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Replicate.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Replicate.h
 src/Core/Reverse.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Reverse.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Reverse.h
 src/Core/ArrayWrapper.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayWrapper.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayWrapper.h
 src/Core/products/GeneralMatrixMatrix_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix_BLAS.h
 src/Core/products/GeneralMatrixVector_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector_BLAS.h
 src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h
 src/Core/products/SelfadjointMatrixMatrix_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix_BLAS.h
 src/Core/products/SelfadjointMatrixVector_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector_BLAS.h
 src/Core/products/TriangularMatrixMatrix_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix_BLAS.h
 src/Core/products/TriangularMatrixVector_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector_BLAS.h
 src/Core/products/TriangularSolverMatrix_BLAS.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix_BLAS.h
 src/Core/Assign_MKL.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign_MKL.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign_MKL.h
 src/Core/GlobalFunctions.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GlobalFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GlobalFunctions.h
 src/Core/util/ReenableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Householder
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Householder
 Core
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
 src/Core/util/DisableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
 src/Householder/Householder.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/Householder.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/Householder.h
 src/Householder/HouseholderSequence.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/HouseholderSequence.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/HouseholderSequence.h
 src/Householder/BlockHouseholder.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/BlockHouseholder.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/BlockHouseholder.h
 src/Core/util/ReenableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Jacobi
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Jacobi
 Core
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
 src/Core/util/DisableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
 src/Jacobi/Jacobi.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Jacobi/Jacobi.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Jacobi/Jacobi.h
 src/Core/util/ReenableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/QR
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/QR
 Core
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
 src/Core/util/DisableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
 Cholesky
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Cholesky
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Cholesky
 Jacobi
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Jacobi
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Jacobi
 Householder
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Householder
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Householder
 src/QR/HouseholderQR.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR.h
 src/QR/FullPivHouseholderQR.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/FullPivHouseholderQR.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/FullPivHouseholderQR.h
 src/QR/ColPivHouseholderQR.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR.h
 src/QR/CompleteOrthogonalDecomposition.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/CompleteOrthogonalDecomposition.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/CompleteOrthogonalDecomposition.h
 src/misc/lapacke.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke.h
 src/QR/HouseholderQR_LAPACKE.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR_LAPACKE.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR_LAPACKE.h
 src/QR/ColPivHouseholderQR_LAPACKE.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR_LAPACKE.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR_LAPACKE.h
 src/Core/util/ReenableStupidWarnings.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LDLT.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LDLT.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT_LAPACKE.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Cholesky/LLT_LAPACKE.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Array.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Array.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayBase.h
 ../plugins/CommonCwiseUnaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseUnaryOps.h
 ../plugins/MatrixCwiseUnaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 ../plugins/ArrayCwiseUnaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseUnaryOps.h
 ../plugins/CommonCwiseBinaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 ../plugins/MatrixCwiseBinaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 ../plugins/ArrayCwiseBinaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseBinaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayWrapper.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ArrayWrapper.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/AssignEvaluator.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/AssignEvaluator.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign_MKL.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Assign_MKL.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BandMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BandMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Block.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Block.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BooleanRedux.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/BooleanRedux.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CommaInitializer.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CommaInitializer.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ConditionEstimator.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ConditionEstimator.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreEvaluators.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreEvaluators.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreIterators.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CoreIterators.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseBinaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseBinaryOp.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseNullaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseNullaryOp.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseTernaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseTernaryOp.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryOp.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryView.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/CwiseUnaryView.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseBase.h
 ../plugins/BlockMethods.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/BlockMethods.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/BlockMethods.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseCoeffsBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseCoeffsBase.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseStorage.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DenseStorage.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Diagonal.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Diagonal.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalProduct.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/DiagonalProduct.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Dot.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Dot.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/EigenBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/EigenBase.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Fuzzy.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Fuzzy.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GeneralProduct.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GeneralProduct.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GenericPacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GenericPacketMath.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GlobalFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/GlobalFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/IO.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/IO.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Inverse.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Inverse.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Map.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Map.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MapBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MapBase.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctionsImpl.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MathFunctionsImpl.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Matrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Matrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MatrixBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/MatrixBase.h
 ../plugins/CommonCwiseUnaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseUnaryOps.h
 ../plugins/CommonCwiseBinaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 ../plugins/MatrixCwiseUnaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 ../plugins/MatrixCwiseBinaryOps.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NestByValue.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NestByValue.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NoAlias.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NoAlias.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NumTraits.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/NumTraits.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PermutationMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PermutationMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PlainObjectBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/PlainObjectBase.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Product.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Product.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ProductEvaluators.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ProductEvaluators.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Random.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Random.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Redux.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Redux.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Ref.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Ref.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Replicate.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Replicate.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ReturnByValue.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/ReturnByValue.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Reverse.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Reverse.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Select.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Select.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfAdjointView.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfAdjointView.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfCwiseBinaryOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SelfCwiseBinaryOp.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Solve.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Solve.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolveTriangular.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolveTriangular.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolverBase.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/SolverBase.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/StableNorm.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/StableNorm.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Stride.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Stride.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Swap.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Swap.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpose.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpose.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpositions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Transpositions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/TriangularMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/TriangularMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorBlock.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorBlock.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorwiseOp.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/VectorwiseOp.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Visitor.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/Visitor.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/Complex.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/PacketMath.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/TypeCasting.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX/TypeCasting.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AVX512/PacketMath.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/Complex.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/AltiVec/PacketMath.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Complex.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Half.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/Half.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMath.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/PacketMathHalf.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/TypeCasting.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/CUDA/TypeCasting.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/Default/Settings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/Default/Settings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/Complex.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/NEON/PacketMath.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/Complex.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/PacketMath.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/TypeCasting.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/SSE/TypeCasting.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/Complex.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/Complex.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/MathFunctions.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/MathFunctions.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/PacketMath.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/arch/ZVector/PacketMath.h
 stdint.h
 -
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/AssignmentFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/AssignmentFunctors.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/BinaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/BinaryFunctors.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/NullaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/NullaryFunctors.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/StlFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/StlFunctors.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/TernaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/TernaryFunctors.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/UnaryFunctors.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/functors/UnaryFunctors.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralBlockPanelKernel.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralBlockPanelKernel.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrixTriangular_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixMatrix_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/GeneralMatrixVector_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/Parallelizer.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/Parallelizer.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixMatrix_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointMatrixVector_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointProduct.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointProduct.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointRank2Update.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/SelfadjointRank2Update.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixMatrix_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularMatrixVector_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix_BLAS.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverMatrix_BLAS.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverVector.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/products/TriangularSolverVector.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/BlasUtil.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/BlasUtil.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Constants.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Constants.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/DisableStupidWarnings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ForwardDeclarations.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ForwardDeclarations.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/MKL_support.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/MKL_support.h
 mkl.h
 -
 ../../misc/blas.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/blas.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/blas.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Macros.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Macros.h
 cstdlib
 -
 iostream
 -
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Memory.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Memory.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Meta.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/Meta.h
 cfloat
 -
 math_constants.h
@@ -716,37 +716,37 @@ math_constants.h
 cstdint
 -
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/ReenableStupidWarnings.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/StaticAssert.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/StaticAssert.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/XprHelper.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Core/util/XprHelper.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/BlockHouseholder.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/BlockHouseholder.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/Householder.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/Householder.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/HouseholderSequence.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Householder/HouseholderSequence.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Jacobi/Jacobi.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/Jacobi/Jacobi.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR_LAPACKE.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR_LAPACKE.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/CompleteOrthogonalDecomposition.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/CompleteOrthogonalDecomposition.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/FullPivHouseholderQR.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/FullPivHouseholderQR.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR_LAPACKE.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/HouseholderQR_LAPACKE.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/blas.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/blas.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke.h
 lapacke_config.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke_config.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke_config.h
 stdlib.h
 -
 complex.h
@@ -754,25 +754,25 @@ complex.h
 complex.h
 -
 lapacke_mangling.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke_mangling.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke_mangling.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke_mangling.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/misc/lapacke_mangling.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseBinaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/ArrayCwiseUnaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/BlockMethods.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/BlockMethods.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseBinaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/CommonCwiseUnaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/json.hpp
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/json.hpp
 algorithm
 -
 array
@@ -828,7 +828,7 @@ utility
 vector
 -
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/main.cpp
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/main.cpp
 fstream
 -
 math.h
@@ -844,15 +844,15 @@ thread
 vector
 -
 Eigen-3.3/Eigen/Core
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/Core
 Eigen-3.3/Eigen/QR
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/QR
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/Eigen-3.3/Eigen/QR
 json.hpp
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/json.hpp
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/json.hpp
 spline.h
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/spline.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/spline.h
 
-/Users/andreasdaiminger/desktop/carnd/term3/CarND-Path-Planning-Project/src/spline.h
+/Users/andreasdaiminger/Desktop/sdcnd/projects/term3/P1-Path-Planning-Project/src/spline.h
 cstdio
 -
 cassert
