@@ -10,6 +10,8 @@
 #include "json.hpp"
 #include "spline.h"
 
+#define SAFETY_DISTANCE 25
+
 using namespace std;
 
 // for convenience
@@ -207,7 +209,9 @@ int main() {
   // Have a reference velocity to target
   double ref_vel = 0.0; //mph
 
-  h.onMessage([&map_waypoints_x,&map_waypoints_y,&map_waypoints_s,&map_waypoints_dx,&map_waypoints_dy, &lane, &ref_vel](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length,
+  std::vector<int> lane_scores(3,0);
+
+  h.onMessage([&map_waypoints_x,&map_waypoints_y,&map_waypoints_s,&map_waypoints_dx,&map_waypoints_dy, &lane, &ref_vel, &lane_scores](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length,
                      uWS::OpCode opCode) {
     // "42" at the start of the message means there's a websocket message event.
     // The 4 signifies a websocket message
@@ -250,9 +254,26 @@ int main() {
               car_s = end_path_s;
             }
 
-            bool too_close = false;
 
-            // find rev_v to use
+            // set potential lane changes
+            vector<int> target_lanes;
+
+            if (lane == 1)
+            {
+              target_lanes.push_back(0);
+              target_lanes.push_back(2);
+            }
+            else
+            {
+              target_lanes.push_back(1);
+            }
+
+
+
+            bool too_close = false;
+            bool lane_change_safe = false;
+
+            // check if car in current lane is too close
             for (size_t i = 0; i < sensor_fusion.size(); i++)
             {
               // car is in my lane
@@ -267,7 +288,7 @@ int main() {
                 check_car_s += ((double)prev_size*.02*check_speed); // when using previous points we need tp project values out
 
                 // check s values greater than mine and s gap
-                if ((check_car_s > car_s) && ((check_car_s - car_s) < 30) )
+                if ((check_car_s > car_s) && ((check_car_s - car_s) < SAFETY_DISTANCE) )
                 {
                   too_close = true;
                 }
@@ -276,12 +297,76 @@ int main() {
             }
 
 
+            std::vector<int> lane_status(3,0);
+
             if (too_close) {
-              ref_vel -= .224;
+
+              // TODO: Vote system
+              // TODO: check for cars from behind
+
+              // check if there are other cars on the potential target lanes
+              for (size_t j = 0; j < target_lanes.size(); j++)
+              {
+
+                for (size_t i = 0; i < sensor_fusion.size(); i++)
+                {
+                  // car is in my lane
+                  float d = sensor_fusion[i][6];
+                  if (d < (2+4*target_lanes[j]+2) && d > (2+4*target_lanes[j]-2) )
+                  {
+                    double vx = sensor_fusion[i][3];
+                    double vy = sensor_fusion[i][4];
+                    double check_speed = sqrt(vx*vx + vy*vy);
+                    double check_car_s = sensor_fusion[i][5];
+
+                    check_car_s += ((double)prev_size*.02*check_speed); // when using previous points we need tp project values out
+
+                    // check s values greater than mine and s gap
+                    if ( ((check_car_s > car_s) && ((check_car_s - car_s) < SAFETY_DISTANCE)) || ((check_car_s < car_s) && ((car_s - check_car_s) < SAFETY_DISTANCE)) )
+                    {
+                      lane_status[target_lanes[j]] = 1;
+                    }
+                  }
+                }
+              }
+
+              for (size_t i = 0; i < target_lanes.size(); i++)
+              {
+                if (lane_status[target_lanes[i]] == 0)
+                {
+
+                  lane_scores[target_lanes[i]] += 1;
+
+                  if (lane_scores[target_lanes[i]] > 20)
+                    {
+                      lane = target_lanes[i];
+                      fill(lane_scores.begin(), lane_scores.end(), 0);
+                      lane_change_safe = true;
+                    }
+
+                }
+              }
+
+              if (!lane_change_safe) {
+                ref_vel -= .224;
+              }
+
+              std::cout << "lane status:" << std::endl;
+              for (size_t i = 0; i < lane_status.size(); i++) {
+                std::cout << lane_status[i] << std::endl;
+              }
+
+              std::cout << "lane score:" << std::endl;
+              for (size_t i = 0; i < lane_scores.size(); i++) {
+                std::cout << lane_scores[i] << std::endl;
+              }
+
             }
-            else if (ref_vel < 49.5) {
+            else if (ref_vel < 49.5) { //49.5
               ref_vel += .224;
             }
+
+
 
             // TODO: define a path made up of (x,y) points that the car will visit sequentially every .02 seconds
 
